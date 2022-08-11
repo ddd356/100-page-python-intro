@@ -1,0 +1,7 @@
+Install vim/outliner
+
+Install tool for code indentation
+	Vimjas/vim-python-pep8-indent
+
+Install linter 
+	https://github.com/dense-analysis/ale

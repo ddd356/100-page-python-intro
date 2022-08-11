@@ -1,1 +1,5 @@
 11.08.2022 
+Prepared git repository "100-page-python-intro".
+Uploaded completed exercises to git.
+Read article "https://skillbox.ru/media/code/prevrashchaem-vim-v-polnotsennuyu-ide-dlya-python/"
+Installed python 3.10.6 from https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe
