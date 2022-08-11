@@ -6,3 +6,4 @@ Installed python 3.10.6 from https://www.python.org/ftp/python/3.10.6/python-3.1
 Read chapter 6 "Control structures"
 Executed chapter 6 exercises
 Read paragraph "String formatting"
+Read chapter 7 "Importing and creating modules", paragraph "Random numbers"
