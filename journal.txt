@@ -5,3 +5,4 @@ Read article "https://skillbox.ru/media/code/prevrashchaem-vim-v-polnotsennuyu-i
 Installed python 3.10.6 from https://www.python.org/ftp/python/3.10.6/python-3.10.6-amd64.exe
 Read chapter 6 "Control structures"
 Executed chapter 6 exercises
+Read paragraph "String formatting"

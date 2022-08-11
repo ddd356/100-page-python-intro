@@ -1,6 +1,3 @@
-repeat paragraph "String formatting"
-	https://learnbyexample.github.io/100_page_python_intro/strings-and-user-input.html#string-formatting
-
 Search and install vim extension to Vivaldi
 
 Install vim/outliner
