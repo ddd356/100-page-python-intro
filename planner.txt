@@ -7,3 +7,5 @@ Install tool for code indentation
 
 Install linter 
 	https://github.com/dense-analysis/ale
+
+Implement chapter 6 "Control structures" exercises with a Haskell

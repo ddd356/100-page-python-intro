@@ -7,3 +7,11 @@ Read chapter 6 "Control structures"
 Executed chapter 6 exercises
 Read paragraph "String formatting"
 Read chapter 7 "Importing and creating modules", paragraph "Random numbers"
+
+12.08.2022 
+Learned about sys.path
+Learned importlib.reload
+Set PYTHONPATH variable
+Read chapter 7 "Importing and creating modules".
+Read "The Python Standard Library": p. "Introduction", p. "Built-in Functions" (until "chr")
+Read chapter 9 "Exception Handling" in order to implement exercise from chapter 7.
