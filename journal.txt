@@ -15,3 +15,12 @@ Set PYTHONPATH variable
 Read chapter 7 "Importing and creating modules".
 Read "The Python Standard Library": p. "Introduction", p. "Built-in Functions" (until "chr")
 Read chapter 9 "Exception Handling" in order to implement exercise from chapter 7.
+Explored "The Python Standard Library": Built-in functions, Built-in constants, Built-in types, Built-in exceptions
+Explored: github: awesome-python; github: best-of-python; Turtle examples
+Read chapter 8 "Installing modules and Virtual environments"
+Read chapter 10 "Debugging", p. "General tips", "Common beginner mistakes".
+
+13.08.2022 
+Read chapter 10 "Debugging"
+Read chapter 11 "Testing"
+Read chapter 12 "Tuple and Sequence operations": due p. "Returning multiple values"
