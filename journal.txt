@@ -24,3 +24,6 @@ Read chapter 10 "Debugging", p. "General tips", "Common beginner mistakes".
 Read chapter 10 "Debugging"
 Read chapter 11 "Testing"
 Read chapter 12 "Tuple and Sequence operations": due p. "Returning multiple values"
+
+14.08.2022 
+Read chapter 12 "Tuple and Sequence operations": due p. "Tuple methods"
