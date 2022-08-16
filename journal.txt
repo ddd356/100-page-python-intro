@@ -37,3 +37,4 @@ Read chapter 16 "Set".
 
 16.08.2022 
 Read chapter 17 "Text processing"
+Read chapter 18 "Comprehensions and Generator expressions". Done exercises 1, 2.
