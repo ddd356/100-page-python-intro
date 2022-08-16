@@ -29,8 +29,11 @@ Read chapter 12 "Tuple and Sequence operations": due p. "Returning multiple valu
 Read chapter 12 "Tuple and Sequence operations": due p. "Tuple methods"
 
 15.08.2022 
-Read chapter 12 "Tuple and Sequence operations"
+Read chapter 12 "Tuple and Sequence operations".
 Read chapter 13 "List", done exercises.
-Read chapter 14 "Mutability"
-Read chapter 15 "Dict"
-Read chapter 16 "Set": p. "Initialization"
+Read chapter 14 "Mutability".
+Read chapter 15 "Dict".
+Read chapter 16 "Set".
+
+16.08.2022 
+Read chapter 17 "Text processing"
