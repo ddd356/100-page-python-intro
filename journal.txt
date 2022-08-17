@@ -38,3 +38,10 @@ Read chapter 16 "Set".
 16.08.2022 
 Read chapter 17 "Text processing"
 Read chapter 18 "Comprehensions and Generator expressions". Done exercises 1, 2.
+
+17.08.2022 
+Chapter 18 "Comprehensions and Generator expressions". Done exercises 3,4.
+Read chapter 19 "Dealing with files". Done exercises.
+Read chapter 20 "Executing external commands"
+Read chapter 21 "Command line arguments"
+Read "Argparse Tutorial"
