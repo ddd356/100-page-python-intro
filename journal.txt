@@ -45,3 +45,7 @@ Read chapter 19 "Dealing with files". Done exercises.
 Read chapter 20 "Executing external commands"
 Read chapter 21 "Command line arguments"
 Read "Argparse Tutorial"
+
+18.08.2022 
+Chapter 21, exercise done!
+Book finished!
